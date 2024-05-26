@@ -4,5 +4,6 @@
 **Language-** HTML,CSS,JAVASCRIPT,BOOTSTRAP,Python,DJANGO <br />
 **Database-** SQLite3 <br />
 **Tools-** Visual Studio Code <br />  <br />  <br />
+**Khobor24hour Some Demo Picture-** <br />  <br />
 <img width="100%" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/news24hour%20newspaper%20website%2Fn1.JPG?alt=media&token=5e82f46d-67cd-479e-a4d6-d3d772f72395"/>
 <img width="100%" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/teco2.JPG?alt=media&token=35876373-e545-4472-b0cc-f6162b3ad18a"/>
